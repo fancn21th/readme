@@ -45,3 +45,7 @@
 我们常常称之为 二级域名
 
 ![image](https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/Whats%20a%20Subdomain%20%26%20How%20Is%20It%20Used%3F-3.jpeg?width=1300&name=Whats%20a%20Subdomain%20%26%20How%20Is%20It%20Used%3F-3.jpeg)
+
+## TOC
+
+- [如何创建一个 demo site](/docs/how-to-create-a-demo-site/step.1.md)
